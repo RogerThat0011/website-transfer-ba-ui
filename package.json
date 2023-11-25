@@ -1,0 +1,22 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "Pruenas automatizadas para transfert BA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogerThat0011/website-transfer-ba-ui.git"
+  },
+  "author": "Rogelio Menjivar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RogerThat0011/website-transfer-ba-ui/issues"
+  },
+  "homepage": "https://github.com/RogerThat0011/website-transfer-ba-ui#readme",
+  "dependencies": {
+    "cypress": "^13.6.0"
+  }
+}
